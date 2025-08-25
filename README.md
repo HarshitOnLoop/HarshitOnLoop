@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<h1 align="center">✨ Hey, I'm Harshit Sharma ✨</h1>
+<h1 align="center"> Hey, I'm Harshit Sharma </h1>
 <h3 align="center">🎯 Frontend Developer | 💻 React Enthusiast | 🌍 Tech Explorer</h3>
 
 <!-- Typing Animation -->
