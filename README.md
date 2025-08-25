@@ -35,12 +35,6 @@ With skills in **React, JavaScript, TypeScript, C++, SQL, WordPress, SEO & Digit
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitOnLoop&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitOnLoop&theme=tokyonight" height="180"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitOnLoop&layout=compact&theme=tokyonight" height="150"/>
 </p>
